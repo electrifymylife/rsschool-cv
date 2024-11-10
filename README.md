@@ -1,1 +1,1 @@
-# [electrifymylife](https://electrifymylife.github.io/rsschool-cv/cv)
+# [electrifymylife](https://electrifymylife.github.io/rsschool-cv/)
